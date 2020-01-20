@@ -1,5 +1,5 @@
 # lms
-Library management system
+it's a simple Library management system
 Here student can show all the book and search for book.
 Admin can add stdent, add book, manage book, issue book.
 
